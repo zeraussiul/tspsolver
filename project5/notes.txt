@@ -1,0 +1,12 @@
+NOTE:
+Aggregation Algorithm found:
+http://cecs.louisville.edu/ry/ArtificialCrowds.pdf
+
+
+ex partial trips:
+1 7 3 10 8 6
+2 9
+4 5
+11
+
+start with first partial trip

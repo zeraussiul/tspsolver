@@ -1,0 +1,17 @@
+TODO:
+- [x]distance function
+- [x]read and parse TSP file load onto a map
+- plot coordinates onto a graph
+- implement brute force algorithm
+
+
+Brute Force Algorithm:
+TODO:
+1. pick a random city (from available nodes in map)
+    -keep track of starting city which we'll have to return to when we've
+    exhausted all cities in map.
+2. iterate thru rest of map finding shortest path to next city
+    -every time we find the next city, we have to keep track of it already being visited.
+3. repeat until all cities are exhausted
+4. return to starting city.
+5. calculate total travel cost?
